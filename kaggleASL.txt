@@ -1,0 +1,2 @@
+Our Dataset is ASL dataset from Kaggle: 
+kaggle datasets download -d grassknoted/asl-alphabet
